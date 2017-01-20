@@ -13,6 +13,7 @@
 # install extra library
 
 ```
+pip install numpy
 pip install jupyter
 pip install matplotlib
 ```
